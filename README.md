@@ -2,6 +2,6 @@
 
 ## The coursework project for the OOP module
 ## using,
-- React for the frontend development.
+- React for frontend development.
 - Springboot with java for backend development.
 - MySQL for handling the database.
