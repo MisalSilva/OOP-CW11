@@ -7,6 +7,7 @@ function Navbar() {
                 <li>Status</li>
                 <li>History</li>
                 <li>Contact</li>
+                <li>Help</li>
             </ul>
         </div>
     );
